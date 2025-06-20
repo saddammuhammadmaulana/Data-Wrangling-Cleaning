@@ -112,7 +112,7 @@ SELECT COUNT(*) AS jumlah_data_setelah_drop FROM stock_fundamental;
 
 
 
-----------------SOME QUERY INSIGHT & VALIDATION FROM THE FINAL DATA-------------
+----------------SOME INSIGHT & VALIDATION QUERY FROM THE FINAL DATA-------------
 
 -- [15] Cek distribusi nilai trailing_pe setelah cleaning
 SELECT 
